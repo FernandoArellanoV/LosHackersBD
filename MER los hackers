@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T02:33:33.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="cNwzwrD7322mPW6kopuc" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-26T02:38:05.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="v-YFYLe-QShWy3twVfhV" version="18.0.1" type="github">
   <diagram id="Sd0gocpGDkJx7UnOnAl0" name="Page-1">
     <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
             <mxPoint x="540" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKckcbR96uWu3LLx_nss-68" value="Id de empleado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="GKckcbR96uWu3LLx_nss-68" value="IdEmpleado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="340" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GKckcbR96uWu3LLx_nss-69" value="Rol" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" parent="1" vertex="1">
@@ -230,7 +230,7 @@
         <mxCell id="GKckcbR96uWu3LLx_nss-73" value="Juego creado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="600" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKckcbR96uWu3LLx_nss-74" value="Código de empresa" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="GKckcbR96uWu3LLx_nss-74" value="idEmpresa" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="720" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GKckcbR96uWu3LLx_nss-75" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GKckcbR96uWu3LLx_nss-72" target="GKckcbR96uWu3LLx_nss-2" edge="1">
@@ -310,7 +310,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XpBoI9ulVcz0R4PBtDPA-22" value="idCompra" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="XpBoI9ulVcz0R4PBtDPA-22" value="&lt;u&gt;idCompra&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-45" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XpBoI9ulVcz0R4PBtDPA-23" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=14;jumpStyle=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XpBoI9ulVcz0R4PBtDPA-22" target="GKckcbR96uWu3LLx_nss-17">
