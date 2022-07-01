@@ -1,0 +1,12 @@
+codigoCat,Nombre,Descripcion
+1,Accion,Basados en ejercicios de repetici贸n (pulsar un bot贸n para que el personaje ejecute una acci贸n)
+2,Arcade,El usuario debe superar pantallas para seguir jugando. Imponen un ritmo r谩pido y requieren tiempos de reacci贸n m铆nimos
+3,Deportivo,Recrean diversos deportes. Requieren habilidad rapidez y precisi贸n.
+4,Estrategia,Consisten en trazar una estrategia para superar al contrincante. Exigen concentraci贸n saber administrar recursos pensar y definir estrategias.
+5,Juegos de Mesa,La tecnolog铆a inform谩tica que sustituye al material tradicional del juego y hasta al adversario.
+6,Juegos Musicales,Juegos que inducen a la interacci贸n del jugador con la m煤sica y cuyo objetivo es seguir los patrones de una canci贸n
+7,Simulacion,Permiten experimentar e investigar el funcionamiento de m谩quinas fen贸menos situaciones y asumir el mando.
+8,Terror,Provoca miedo al jugador
+9,Battle Royale,desaf韆n a un grupo de jugadores, comenzando con un equipamiento m韓imo, a que busquen armas y eliminen a otros oponentes, mientras evitan quedar fuera de un 醨ea segura, siendo el ganador el 鷏timo jugador en pie
+10,Pelea,se basa en manejar un luchador o un grupo de luchadores, ya sea dando golpes, usando poderes m醙icos o armas (incluyendo las de fuego), arrojando objetos o aplicando llaves
+11,Supervivencia,ambientado en un ambiente hostil, intenso y de mundo abierto, donde los jugadores generalmente comienzan con equipos m韓imos y se les exige que recolecten recursos, herramientas de artesan韆, armas y refugio, y sobrevivan el mayor tiempo posible

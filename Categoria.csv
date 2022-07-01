@@ -1,0 +1,8 @@
+codigoCat,Nombre,Descripcion
+1,Accion,Basados en ejercicios de repetición (pulsar un botón para que el personaje ejecute una acción)
+2,Arcade,El usuario debe superar pantallas para seguir jugando. Imponen un ritmo rápido y requieren tiempos de reacción mínimos
+3,Deportivo,Recrean diversos deportes. Requieren habilidad rapidez y precisión.
+4,Estrategia,Consisten en trazar una estrategia para superar al contrincante. Exigen concentración saber administrar recursos pensar y definir estrategias.
+5,Juegos de Mesa,La tecnología informática que sustituye al material tradicional del juego y hasta al adversario.
+6,Juegos Musicales,Juegos que inducen a la interacción del jugador con la música y cuyo objetivo es seguir los patrones de una canción
+7,Simulacion,Permiten experimentar e investigar el funcionamiento de máquinas fenómenos situaciones y asumir el mando.
